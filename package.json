@@ -1,0 +1,22 @@
+{
+  "name": "vvntheflash-react-native-ffmpeg",
+  "version": "1.0.0",
+  "description": "FFMpeg for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VVNTHEFLASH/vvntheflash-react-native-ffmpeg.git"
+  },
+  "keywords": [
+    "FFMPEG"
+  ],
+  "author": "VVNTHEFLASH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VVNTHEFLASH/vvntheflash-react-native-ffmpeg/issues"
+  },
+  "homepage": "https://github.com/VVNTHEFLASH/vvntheflash-react-native-ffmpeg#readme"
+}
